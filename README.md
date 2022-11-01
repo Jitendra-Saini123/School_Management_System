@@ -3,7 +3,7 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/schoolmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/Jitendra-Saini123/schoolmanagement/blob/master/static/screenshots/homepage.png?raw=true)
 
 ---
 
